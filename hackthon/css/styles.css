@@ -1,0 +1,31 @@
+/* Custom styles for ScrapUncle */
+
+/* Use a clean, modern font */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Navbar Branding */
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  /* Hero Section Customization */
+  header {
+    background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+    /* Uncomment the line above and add a proper image path if you want a background image */
+  }
+  
+  /* Form container styling */
+  form {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Footer customization */
+  footer {
+    font-size: 0.9rem;
+  }
+  
